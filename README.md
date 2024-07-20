@@ -6,6 +6,6 @@ DeepNude Blacklisted Sites and Providers - Critical Information for End Users Ea
 
 The sites listed below have been designated as blacklisted based on reports and evidence provided by others. It is strongly advised for both end-users and webmasters to steer clear of them.
 
-| **Site Name**                                        | **Complaint**                                                              | **Proof** |
+| **Site Name**                                        | **Complaint**                                                              | **Proof**    |
 |------------------------------------------------------|----------------------------------------------------------------------------|--------------|
 | [Undress.Love](https://www.undress.love/)            | Unethical business practices, not paying partners and unresponsive support.| - tbp        |
